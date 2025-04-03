@@ -1,0 +1,7 @@
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\bin\Debug\testFirst.exe.config
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\bin\Debug\testFirst.exe
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\bin\Debug\testFirst.pdb
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\obj\Debug\testFirst.csproj.AssemblyReference.cache
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\obj\Debug\testFirst.csproj.CoreCompileInputs.cache
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\obj\Debug\testFirst.exe
+C:\Users\Sasha Pogrebnicenco\Desktop\Amdaris\1\git-amd\testFirst\testFirst\obj\Debug\testFirst.pdb
