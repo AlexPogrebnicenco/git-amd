@@ -10,7 +10,7 @@ namespace testFirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello 123");
+            Console.WriteLine("Hello from first editor");
             Console.ReadKey();
         }
     }
