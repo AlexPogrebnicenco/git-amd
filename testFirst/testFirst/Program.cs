@@ -10,7 +10,7 @@ namespace testFirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from the another branch");
+            Console.WriteLine("last update");
             Console.ReadKey();
         }
     }
